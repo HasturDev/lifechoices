@@ -1,6 +1,41 @@
+<<<<<<< HEAD
 /transactions.py
 /django-venv
 migrations
+=======
+# IDE's
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.*.sw[op]
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+>>>>>>> ryan/django-app
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -140,3 +175,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/djangolifechoices/elements/migrations/
