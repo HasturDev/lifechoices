@@ -1,7 +1,7 @@
 from django.urls import path
 from elements import views
 
-app_accounts = 'elements'
+app_name = 'elements'
 
 urlpattern = [
     #plan views

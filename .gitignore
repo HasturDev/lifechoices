@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 /transactions.py
 /django-venv
 migrations
-=======
+
 # IDE's
 .idea
 .vscode/*
@@ -30,12 +29,12 @@ Thumbs.db
 *.log
 *.pot
 *.pyc
+*.sqlite3
 __pycache__/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
 media
->>>>>>> ryan/django-app
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
