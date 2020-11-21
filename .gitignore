@@ -1,4 +1,6 @@
 /transactions.py
+/django-venv
+migrations
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
